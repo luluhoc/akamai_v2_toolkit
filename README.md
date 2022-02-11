@@ -27,3 +27,6 @@ Current BMAK
     "startTs": 1644609588849
 }
 ```
+
+It looks like they are using now ASCII special characters in their script
+https://theasciicode.com.ar/

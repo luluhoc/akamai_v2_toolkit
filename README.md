@@ -1,6 +1,6 @@
 # Akamai Bot Manager 2.0
 
-Feel free to contact me @lulu_fr_ on Twitter on just open an issue.
+Feel free to contact me `@lulu_fr_` on Twitter on just open an issue.
 
 The current stage is to deobfuscate 2.0 version.
 

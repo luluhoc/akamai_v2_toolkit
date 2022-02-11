@@ -18,3 +18,12 @@ _SDp/`{6Sv/=ta,!nS|=Obj?Pm=1ws2givAg9/FxMvk:-@Mi>NXI1g_O5j6VHi?pcFomTC9Po3Ceac O
 s>$u$1FLs,:/xc]&aMU!(g!a*_?DC~H[zJnDuOT;)GIBz,va[taC,v9$.O?3w)Ku/(AZZ32U!HO3$+Tzi{ce5b^Q^8-(**ZdsAd}:Dm4]A#-G;>I5D8d6qYnJlS.[&3
 &7 0Qo/Tfh+Q_Hv{V*!Ehy&dxTT*n5k`v(Wun?"}
 ```
+
+Current BMAK
+```
+{
+    "firstLoad": false,
+    "listFunctions": {},
+    "startTs": 1644609588849
+}
+```

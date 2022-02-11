@@ -2,7 +2,7 @@
 
 Feel free to contact me `@lulu_fr_` on Twitter on just open an issue.
 
-The current stage is to deobfuscate 2.0 version.
+The current stage is deobfuscation of 2.0 version.
 
 Akamai just wasting computer resources lol.
 

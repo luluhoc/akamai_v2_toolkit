@@ -2,6 +2,7 @@
 
 The current stage is to deobfuscate 2.0 version.
 
+Akamai just wasting computer resources lol.
 Example Sensor Data
 ---
 ```

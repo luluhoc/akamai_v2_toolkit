@@ -30,3 +30,14 @@ Current BMAK
 
 It looks like they are using now ASCII special characters in their script
 https://theasciicode.com.ar/
+
+
+From AKAMAI BRIEF let's reverse it already
+```
+Sophisticated, dynamic bot detections — Bot Manager accurately detects unknown bots from
+the first interaction using a variety of AI and machine learning models and techniques. They
+include user behavior analysis, browser fingerprinting, automated browser detection, HTTP
+anomaly detection, high request rate, and more. Bot Manager’s dynamic obfuscation of code
+and telemetry protects against reverse engineering, keeping Bot Manager’s effectiveness
+high over time.
+```

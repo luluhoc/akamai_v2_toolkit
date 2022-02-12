@@ -1,0 +1,78 @@
+XX.Sp("\tSJ_-D%\n", rv) = "navigator"
+XX.NT("^M_8X", GY) = "length"
+XX.gD("9\vG\x00JV\x3f", Z6) = "plugins"
+LX["navigator"]["plugins"] = navigator.plugins
+XX.ST("#BL)", n6) = "Date"
+LX[XX.ST("#BL)", n6)] = Date
+XX.WX(bR, W6, Z3) = "getTimeZoneOffset"
+XX.XD("Q\bM[-D", XR) = "concat"
+
+XX.wX(mv, TR, Z0) = "window"
+XX.rD(",yW`W\"^/N \b\\", H6) = "RTCPeerConnection"
+XX.mD("]%h$bFJ_$_*[\bM", hw) = "mozRTCPeerConnection"
+XX.hD("\v_:[\bMk8_8],", Cw) = sessionStorage
+
+XX.hT(")[;$]Fy8", d3) = 'charCodeAt'
+XX.BT("w[", B3) = "cTc"
+
+XX.jT("PT%S/", cY) = "slice"
+XX.wT("QW8_>J,", PY) = "prototype"
+XX.QT("\v\nH(", xY) = "Array"
+LX["Array"]["prototype"]["slice"] = Array.prototype.slice
+
+XX.Dp("G", RY) = d
+XX.OX(OY, vY, K0) = c
+XX.lX(fY, YY, K0) = m 
+XX.Pp("U$\rW,SO]", gY) enumerable
+XX.vX(E0, NY, zY) "defineProperty"
+XX.xp("w.Z/N", tY) = "Object"
+XX.Gp("", TY) = o;
+XX.cp("-N", rY) =  get;
+XX.Ip("", mY) r
+XX.lp("eA*L\9\/", ZY) __esModule
+XX.kX(KY, WY, Z0) object
+XX.RX(hY, bY, K0) t
+XX.Up("I=[	D", EY) string
+XX.ET("BT9U", FY) value
+XX.vp("VEY9\>", AY) default
+XX.Op("Q]-D/", nY) create
+XX.Rp("	", jY) n
+XX.kp("", Vl) a
+XX.wp("X+\vu>\tbLH)B>", Dl) hasOwnProperty
+XX.RT("M\\)V#_-", Wv) undefined
+XX.fp("W+\b^", Zv)  Symbol
+XX.Yp("\fU\x40M_Q-", Hv) toStringTag
+XX.UX(nv, Av, Z0) Module
+XX.rp("`Y\"^%\f*\b\\FJ8\x3f^,[\tF\\l_8XT<\v^GWWl_(_*", IU) Cannot convert undefined or null to object
+
+XX.gp("3ZH)u8\nU;", cU) TypeError
+XX.tT("", xl) ""
+XX.UT("}", BR) "GX"
+XX["GX"] = toString()
+XX.FT("9B&", lv) "url"
+XX.Xp("ST%S/", Wk) splice
+XX.Vp("F@<_8I", Zk) exports
+XX.pp("T", nk) l 
+XX.Tp("[", Hk) i
+XX.Lp("\'\bE", A6) "Now"
+XX.bp("\'I:U", YU) message // problem
+XX.hp("AL#Q", fU) btoa
+XX.Np(",\rT*[\bM", xU) function
+XX.Cp("u8\nU;", lU) Error
+XX.sp("q\"F+S-$ZQY/D/\n;]", DR) InvalidCharacterError
+XX.qp("^+_", gY) name
+XX.Wp("q\b;~\f!u/jr\x07|\x076u6`4wmg!`(QF^+X#Q%\n\\\bSI>C>\rL>K\t~~M\f~_\vL\f", hv) ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+XX.zT("ZQy8", Wl) charAt
+XX.MX(mk, bk, qv) "'btoa' failed: The string to be encoded contains characters outside of the Latin1 range."
+XX.Zp("", bv) =
+
+XX.Kp("\x40M_", dv) String
+XX.zp("Q9\vS.\t", PU) assign
+XX.dp("/_$S.\x40AT)", vN) configurable
+XX.sT("SM\x3fX", kN) push
+XX.EX(Mk, Q0, f3) startTs
+XX.JT("WwQ!U%\rN", Ov) setTimeout
+XX.Ap("Q>", Gv) Math
+XX.Ep("H(\tV\bN", Pv) random
+XX.MT("N&4FJV+", qM) toString
+LX Changes strings to funcs

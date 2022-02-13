@@ -1,1 +1,585 @@
+XX.Sp("\tSJ_-D%\n", rv) = "navigator"
+XX.NT("^M_8X", GY) = "length"
+XX.gD("9\vG\x00JV\x3f", Z6) = "plugins"
+LX["navigator"]["plugins"] = navigator.plugins
+XX.ST("#BL)", n6) = "Date"
+LX[XX.ST("#BL)", n6)] = Date
+XX.WX(bR, W6, Z3) = "getTimeZoneOffset"
+XX.XD("Q\bM[-D", XR) = "concat"
 
+XX.wX(mv, TR, Z0) = "window"
+XX.rD(",yW`W\"^/N \b\\", H6) = "RTCPeerConnection"
+XX.mD("]%h$bFJ_$_*[\bM", hw) = "mozRTCPeerConnection"
+XX.hD("\v_:[\bMk8_8],", Cw) = sessionStorage
+
+XX.hT(")[;$]Fy8", d3) = 'charCodeAt'
+XX.BT("w[", B3) = "cTc"
+
+XX.jT("PT%S/", cY) = "slice"
+XX.wT("QW8_>J,", PY) = "prototype"
+XX.QT("\v\nH(", xY) = "Array"
+LX["Array"]["prototype"]["slice"] = Array.prototype.slice
+
+XX.Dp("G", RY) = d
+XX.OX(OY, vY, K0) = c
+XX.lX(fY, YY, K0) = m 
+XX.Pp("U$\rW,SO]", gY) enumerable
+XX.vX(E0, NY, zY) "defineProperty"
+XX.xp("w.Z/N", tY) = "Object"
+XX.Gp("", TY) = o;
+XX.cp("-N", rY) =  get;
+XX.Ip("", mY) r
+XX.lp("eA*L\9\/", ZY) __esModule
+XX.kX(KY, WY, Z0) object
+XX.RX(hY, bY, K0) t
+XX.Up("I=[	D", EY) string
+XX.ET("BT9U", FY) value
+XX.vp("VEY9\>", AY) default
+XX.Op("Q]-D/", nY) create
+XX.Rp("	", jY) n
+XX.kp("", Vl) a
+XX.wp("X+\vu>\tbLH)B>", Dl) hasOwnProperty
+XX.RT("M\\)V#_-", Wv) undefined
+XX.fp("W+\b^", Zv)  Symbol
+XX.Yp("\fU\x40M_Q-", Hv) toStringTag
+XX.UX(nv, Av, Z0) Module
+XX.rp("`Y\"^%\f*\b\\FJ8\x3f^,[\tF\\l_8XT<\v^GWWl_(_*", IU) Cannot convert undefined or null to object
+
+XX.gp("3ZH)u8\nU;", cU) TypeError
+XX.tT("", xl) ""
+XX.UT("}", BR) "GX"
+XX["GX"] = toString()
+XX.FT("9B&", lv) "url"
+XX.Xp("ST%S/", Wk) splice
+XX.Vp("F@<_8I", Zk) exports
+XX.pp("T", nk) l 
+XX.Tp("[", Hk) i
+XX.Lp("\'\bE", A6) "Now"
+XX.bp("\'I:U", YU) message // problem
+XX.hp("AL#Q", fU) btoa
+XX.Np(",\rT*[\bM", xU) function
+XX.Cp("u8\nU;", lU) Error
+XX.sp("q\"F+S-$ZQY/D/\n;]", DR) InvalidCharacterError
+XX.qp("^+_", gY) name
+XX.Wp("q\b;~\f!u/jr\x07|\x076u6`4wmg!`(QF^+X#Q%\n\\\bSI>C>\rL>K\t~~M\f~_\vL\f", hv) ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+XX.zT("ZQy8", Wl) charAt
+XX.MX(mk, bk, qv) "'btoa' failed: The string to be encoded contains characters outside of the Latin1 range."
+XX.Zp("", bv) =
+
+XX.Kp("\x40M_", dv) String
+XX.zp("Q9\vS.\t", PU) assign
+XX.dp("/_$S.\x40AT)", vN) configurable
+XX.sT("SM\x3fX", kN) push
+XX.EX(Mk, Q0, f3) startTs
+XX.JT("WwQ!U%\rN", Ov) setTimeout
+XX.Ap("Q>", Gv) Math
+XX.Ep("H(\tV\bN", Pv) random
+XX.MT("N&4FJV+", qM) toString
+
+XX.nX(VR, X3, f3) pubish
+XX.JX(fY, F3, rM) mnChlgeType
+XX.QX(fY, DU, s0) mnPsn
+XX.p8(">U9\rV=", GU) result
+XX.tD("IW%^", fk) join
+XX.WT("(_)\rW,\tF", MN) document
+XX.fD("/B/N,\"^N]\"D", mR) createElement
+XX.hX(bR, CR, W0) getContext
+XX.PG("O)R-", SO) webgl
+XX.cG("", Lv) b
+XX.IG("D]8c\x3f\bJ&FG}4D/I \b\\", sM) getSupportedExtensions
+XX.PV(KM, mk, Q0) JSON
+XX.fG("FJV+Y,", WM) stringify
+XX.cV(Mk, zY, Q0) sort
+XX.dT("%^.B", vN) indexOf
+ XX.OG("6w\b4y\"ggu<u8e\"a\x00", nM) UNMASKED_VENDOR_WEBGL
+ XX.lG("],wW]\"C#T", HM) getExtention
+ XX.YG(".F7BJ-]/\f_;", ZM) getParameter
+XX.IV(V6, VU, Hw)  WEBGL_debug_renderer_info
+XX.vG("2|*bk\x07u\'h\f)v\"q}o=x+", tk) UNMASKED_RENDERER_WEBGL
+XX.UG("W", vl) e
+XX.RG("vJ-Y", Ul) <bpd>
+XX.kG("\t", Rl) "3"
+XX.wG("<_\x3fQlJ%U$\f[=]\tfN)^>", Tk) DeviceOrientationEvent
+XX.NG("|)F#_\bFLV\tF/N", Ml) DeviceMotionEvent
+XX.MG(".e-A", kl) do_dis
+XX.tG("-\bmM", wl) do_en
+XX.fV(E0, YY, s0) dm_en
+XX.zG(".e-A", sU) dm_dis
+XX.gG(",U<Z\"U]\"D", KU) TouchEvent
+XX.rG(">\'_\'", nl) t_en
+XX.YV(hY, WU, s0) t_dis
+XX.Hp("f", Kv) ,
+XX.LD("WOY/U", LR) replace
+XX.mG("vj\x00", ZU) URL
+XX.dG("*\x40V\n^VT-D/", lv) fpValCalculated
+XX.zX(VR, wk, X3)  parseInt
+XX.hG("K8Q8\fn \nWWY!\x40", HU) startTimestamp
+XX.bG("K)DN,", RN) setDate
+XX.CG("D]8t+\f_", nU) getDate
+XX.v8("", Fv) ;
+XX.qG("-N\b\\K", Kl) getMonth
+XX.sG("_", NN) |
+XX.KG("T/S*vWY", zN) deviceDate
+XX.WG("_\bVK)}%_\rF", vl) mouseMoveData
+XX.ZG("N&dO", gO) totVel
+XX.lV(E0, Yl, zY) deltaTimestamp
+XX.HG("p\bLT)Q$", gN) Boolean
+XX.nG(")\n_-\\JY C", kl) credentials
+XX.AG("Q:\bw \t]u]>C#T", rN) appMinorVersion
+XX.EG("Z E/\fU&Z", mN) bluetooth
+XX.OV(Mk, dN, f3) storage
+XX.JG(" \nG\v", hN) imul
+XX.QG("_)D\rW,SP", bN) getGamepads
+XX.jG(".F4WW>Q-o9SFK", MM) getStorageUpdates
+hardwareConcurrency
+XX.vV(fY, fk, j0) mozAlarms
+XX.Lx("U#J\tT\'QJW\"", zM) 
+XX.Tx("U\x3f}+S9^WQ#^_>w\tBZ U.", E6) msManipulationViewsEnabled
+XX.Xx("$\bH.Pt#S+V0&DJT-R&", gM) mozIsLocallyAvailable
+XX.Vx("\'\x40]\tFv9](H\x40J[)", F6) mozPhoneNumberService
+XX.px(":H$AJW\"C", J6) permissions
+XX.SG("_-S#FN%S/\v", NM) mediaDevices
+XX.Dx("FI9U9\fw,[h]5c3\vN,\ns\x40]\x3fC", B6) requestMediaKeySystemAccess
+XX.UV(Q6, j6, Qw) registerProtocolHandler
+XX.Gx("H,GPLQ!v&Y", KM) requestWakeLock
+XX.xx("\v_\'pB[#^", S6) sendBeacon
+XX.Px("\x3fU8S*e\bQS)B", l3) serviceWorker\
+XX.cx("I=\b\x40t].g#_SHQ\"W\x00Y,FLV", O3) storeWebWideTrackingException
+LX Changes strings to funcs
+XX.Ix(">P\fJL\vU>\x3f[$BGK", v3) webkitGetGamepads
+XX.fx("WHQ8d/J&SZk8_8],", U3) webkitTemporaryStorage
+XX.Yx("\rW+\x40", R3) Number
+XX.lx("\"J&", k3) hypot
+XX.Ox("(Sw", w3) PiZtE
+XX.ND(">f+", s6) rVal
+XX.zD("`~", K6) rCFP
+XX.KX(hY, ll, A0) td
+XX.sX(NU, Yk, X3) fpValStr
+XX.vx("S;F+LY(", M3) firstLoad
+XX.M4("Ii\t]YlF+S-GW\tVUlF+O,G]L5\x40/Xj,_PK%_$6[$", NM) is not a valid enum value of type PermissionName
+
+{
+XX.A1("`Y\"T+\n[", NN)"": "Candara" ,
+XX.AD("EW>u+R", Cv): "forEach"
+XX.C1("\x003qGaW(_$~U%LT(", cw): "ITC Bodoni 72 Bold"
+XX.E1("-\x40:T-$ZO\\", lM): "appendChild"
+XX.F1("o-C/W", YM): "Waseem"
+XX.H1("4ZF]lt/[\'UQQl\x07{L", cM): "Shree Devanagari 714"
+XX.J1("]EK)D^=", VM): "offsetWidth"
+XX.K1("\x00E)^(GaMK", Iw): "Lucida Sans"
+XX.OD("C>V,", hR): "style"
+XX.Q1("W*V9N[\x00KL", tM): "offsetHeight"
+XX.W1("r%U\'P", fw): "Bodoni 72"
+XX.Z1("i,[", Fw): "Serif"
+XX.b1("m \tUJV+CjJ", Pw): "Wingdings 2"
+XX.d1("L\\5", xw): "body"
+XX.g1("ABV", JU): "span"
+XX.h1("}%U:SF", mw): "Monospace"
+XX.j1("\\)F#_JOj-D#", n3): "devicePixelRatio"
+XX.l1("_)D_$\\Pz5d+t(\nW", DU): "getElementsByTagName"
+XX.m1("{A\b9", ql): "192px"
+XX.n1("\x40J#C%Ni3St)", pk): "Microsoft Tai Le"
+XX.q1("U$U", Gv): "Menlo"
+XX.r1("EW\"D\x40,", Gw): "fontSize"
+XX.rT("p", nl): ":"
+XX.s1("\rV%GaMKl}", EM): "Gill Sans MT"
+}
+XX.CV(fY, Dw, rM): "mmmmmmmmlli"
+XX.KV(NU, b6, W0): "fontFamily"
+XX.WV(Q6, TM, rM): "removeChild"
+XX.bV(ZR, HR, j0): "innerHTML"
+XX.qV(bM, IM, dM): "Nimbus Roman No 9 L"
+XX.sV(Pk, fM, zY): "Press Start 2P"
+XX.AV(E0, bY, Z0): "denied"
+XX.B1("\x00W\bOW/Q>U\'", R6): "geolocation"
+XX.D4("BQK%C>T=JALJ-W/", PM): "persistent-storage"
+XX.G4("BU.Y/Nd\v[\x00KLaC/I&", dO): "ambient-light-sensor"
+XX.HV(hY, XO, Q0): "then"
+XX.I4("*\v[AW-B.", qO): "clipboard"
+XX.L4("W [", DM): "midi"
+XX.N4("Q&", UO): "all"
+XX.O4("BA!U$\f!\\O]>", Sl): "payment-handler"
+XX.P4("]0]\x40W<U", bO): "gyroscope"
+XX.R4("<B%J=", Fk): "prompt"
+XX.S1("V#D#S*FLV\x3f", pM): "notifications"
+XX.T4(".L WJJV*_", xM): "device-info"
+XX.U4("V]>I", B6): "query"
+XX.V4("I9S\fFJ", qM): "speaker"
+XX.X4("*_QY", GM): "camera"
+XX.Y4("/\\#\bX&\x40J)Q.", Bl): "clipboard-read"
+XX.ZV(fY, LN, W0): "microphone"
+XX.c4("NY+^/\fU$FQ", CO): "magnetometer"
+XX.f4("+Y,AAQ Y>,W\tWK", sO): "accessibility-events"
+XX.k4("+B+N,", VO): "granted"
+XX.l4("\x40T%\x40([;QQ8U", ck): "clipboard-write"
+XX.nV(Mk, Iw, s0): "state"
+XX.p4("AY/[-\nU<\tVJPA\"S", mO): "background-sync"
+XX.t4("\nU$A", Zw): "Promise"
+XX.v4("U-\x40", LO): "map"
+XX.w4("BL/X", vO): "catch"
+XX.x4("Y/S/_;\b_W]>", hO): "accelerometer"
+XX.g4("%C\b\n[\x3f", kO): "isBrave"
+XX.z4("\x40U]", RO): "brave"
+
+XX.Ax("", VN): "1"
+XX.DD("_=&FQQ.E>", tO): "getAttribute"
+XX.FV(Mk, vv, X3): "selenium"
+XX.J8("z", X6): "0"
+XX.d4(" j(Z5FK9\\>", MO): "XPathResult"
+XX.h4(".\nS\x3f\x40", AU): "driver"
+XX.m4("^&G\nFV8u&W,\tF", d6): "documentElement"
+XX.qD("M,VJN)B", X3): "webdriver"
+XX.r4("mV|Y\x3fT V(GLH*X<`\nQOg", wO): "$cdc_asdjflasutopfhvcZLmcfl_"
+
+XX.Qp("QW!s\"H\n\bV", Nv): "fromCharCode"
+
+XX.b4("", Uv): "2"
+
+
+XX.A4(" ~&\nSMj)A\x3fI=", G3): "XDomainRequest"
+XX.B4("K\x40H)^p", IO): ",cpen:"
+XX.BV(E0, lO, F0): "dm:"
+XX.C4("+[ \vzJ_$D", d3): "availHeight"
+XX.DP("W\"|#_", tY): "onLine"
+XX.E4("\vJ(\\", TY): "spawn"
+XX.EV(rk, Rv, W0): "availWidth"
+XX.F4("NQ8", PO): "emit"
+XX.GP("LH)B+", I3): "opera"
+XX.H4(".W\bF\bNY8Y%", p3): "domAutomation"
+XX.IP("q\bMK8B\x3fN&", Hk): "Constructor"
+XX.J4("R;\b_", dk): "chrome"
+XX.JV(OY, wv, v6): "clientHeight"
+XX.K4("Y%W\tWo%T>", L3): "clientWidth"
+XX.LP("\vN W\x3flZ&U)\f", Zv): "ActiveXObject"
+XX.LT(KY, gl, Q0): "opc:"
+XX.MP("TV&\b", EO): ",loc:"
+XX.OP("F#\x00", ZO): "vib:"
+XX.PP("\x3fSp", KO): "sc:"
+XX.Q4("pE^)B", cO): "Buffer"
+XX.QV(qv, D3, zY): "XMLHttpRequest"
+XX.RP("2I\vs", AU): "x11:"
+XX.S4("Y{B", YO): "i1:"
+XX.SV(mv, P3, X3): "webstore"
+XX.TP("[;U$B", x3): "cwen:"
+XX.UP("\x00WaY8D/\nC", AO): "getBattery"
+XX.VP("L[9]/N\bV", OO): "documentMode"
+XX.VT(tl, nO, Q0): "bat:"
+XX.W4("%\rN,eGL$", V3): "outerWidth"
+XX.XP("^\x3fX,", hv): "number"
+XX.XT(lw, Nl, zY): "InstallTrigger"
+XX.YD(">VK", zk): "width"
+XX.YP("%C)B", vN): "isc:"
+XX.Z4("g<X+N&\n", T3): "_phantom"
+XX.cP("3+fT)]/N", WO): "HTMLElement"
+XX.f1("Q.\x3f\\oQ\x3fD/_;", Yw): "addEventListener"
+XX.fP("=\nYs", Z0): "wrc:"
+XX.j4("7]ML)B_\'", qk): "PointerEvent"
+XX.jV(OY, fO, rM): "callPhantom"
+XX.kP("BxU\b", FO): "x12:"
+XX.kT("|<\tQJW\"", CM): "Function"
+XX.lD("\"S.F", dR): "height"
+XX.lP("U3.\\\tFJS8_\'>", M3): "mozInnerScreenY"
+XX.mX(Mk, NO, Z0): "screen"
+XX.n4("KGFV(", T6): ",uaend,"
+XX.pP("\tLVv", c3): "non:"
+XX.q4("Y$_;/WDP8", kv): "innerHeight"
+XX.s4(" \t\\Qo%T>", Mv): "innerWidth"
+XX.vP("L \x40W]", HO): "vibrate"
+XX.wP("tO]U+_;", nv): "FileReader"
+XX.xP("\x40", Y3): "fc:"
+
+
+XX.NP("J", v6): "-"
+XX.TT(VR, q0, f3): "product"
+XX.tP("QW(E)\fi<", Cl): "productSub"
+XX.zP(" Q$O(\x00W", GU): "language"
+
+XX.Bp("<_=", gv): "pow"
+XX.Fp("OW#B", xv): "floor"
+XX.Jp("<\tW\x40Y<U", cv): "unescape"
+XX.jp("QJT", zv): "ceil"
+XX.tX(Iv, tv, hM): "encodeURIComponent"
+
+XX.NX(BU, SU, j0): "userAgent"
+
+XX.gX(Mk, tk, Q0): "sqrt"
+
+XX.CT("\x40+\nI,!^\bBL", U6): "parseFloat"
+XX.TD("=\bt[](", zk): "toFixed"
+XX.VD("#\vt()", Nk): "isNaN"
+
+XX.pD("N&+]FJQ9", gk): "toLowerCase"
+
+XX.rX(rk, LR, b3): "activeElement"
+
+XX.CX(NU, mU, X3): "fillText"
+XX.GD("S%U;#WWP", zO): "colorDepth"
+XX.ID("V\bmW8d8Y\"", rR): "doNotTrack"
+XX.MD("8_N(2`+", Fk): "toDataURL"
+XX.PD("/_%S,\"\\AT)T", rO): "cookieEnabled"
+XX.RD("9\fH&\fW4WA U", dU): "strokeStyle"
+XX.UD("LV8", rU): "font"
+XX.bX(NU, zU, j0): "fillStyle"
+XX.cD("IY:Q[+\vW", mO): "javaEnabled"
+XX.dX(E0, Hk, f3): "display"
+XX.kD("(Q", xk): "arc"
+XX.qX(Pk, ck, A0): "PI"
+XX.vD("*Y&h,F", gU): "fillRect"
+XX.wD(":\x40\bH]", Ik): "stroke"
+XX.xD("J W\vg]<D\"", gO): "pixelDepth"
+XX.bD("U*^4WW>Q-", qw): 'localStorage'
+XX.CD("Q\"T/\x00_-#p", sw): "indexedDB"
+
+XX.KD("B\vJL", Ww): "split"
+XX.WD("9\rX:\x40M_", Zw): "substring"
+XX.ZD(".Y&W2qq_\'\bU\'\\", xN): "decodeURIComponent"
+XX.sD("*\b]\fJ]", Kw): "cookie"
+
+XX.ZX(PN, cN, F0): "key"
+XX.HX(fR, IN, H0): "Cannot call a class as a function"
+
+XX.HD("C\x3fI*[F", fN): "subscribe"
+XX.nD("FU#F/", YN): "remove"
+
+XX.AX(nv, pw, F0): "Map"
+XX.BD("Q\bMK8B\x3fN&", Tw): "constructor"
+XX.ED("S=\x40WW>", ON): "iterator"
+XX.FD(" sQY5", lN): "isArray"
+XX.FX(GR, nk, F0): "Set"
+XX.JD("\'J", Lw): "next"
+XX.L8("bJ+E\'T=", LU): "Arguments"
+XX.QD("T%_", Xw): "done"
+XX.SD("^>_\'", tY): "from"
+XX.V8("s\'S\vJ\\lQ>\f_$FGWWlT/\vN;QVJ)$TdFQY.\\/XS\'FM[)\x401Ti\b\x40FJlD%XX,G[FJ-R&i\t]\tY>B+&X\x40L\x3f\'\rI=GZU]lQj#i0\nP\bO%D/\n[=\b\x40:\vl]/\fR&", VU): "Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."
+XX.X8("\f_:", XU): "test"
+XX.jD("Q]8E8", Vw): "return"
+
+XX.D8("DML", AM): "event"
+XX.G8("_0$]F", BU): "keyCode"
+XX.I8("W,S,FA", gO): "metaKey"
+XX.O8("\b", SM): ",0"
+XX.P8("9S/yZ", EM): "shiftKey"
+XX.R8("9", Jv): "sk"
+XX.U8("N:", Ev): "ts"
+XX.Y8("WA<U", fk): "type"
+XX.c8("*\x40\vh]5", JM): "ctrlKey"
+XX.f8("-\\>3_0", QM): "altKey"
+XX.l8("%C\nO:W", BM): "isTrusted"
+XX.x8("ZQ{#T/", FM): "charCode"
+
+
+XX.BX(E0, Bv, b3): "devPixelRatio"
+XX.C8("/Q&|&\tF*FL>Y)\v", hl): "calcFontMetrics"
+XX.H8("D]8r8M:\x40", Vw): "getBrowser"
+XX.K8("QQ>", mO): "rir"
+XX.LV(Mk, Cl, zY): "setBraveSignal"
+XX.N8("O>", Mw): "wr"
+XX.SX(OY, Xw, C3): "captureDeviceOrientationActivity"
+XX.XV(OY, ql, dM): "collectSeleniumData"
+XX.Z8("],vUQ/UN(", Vk): "getDeviceData"
+XX.b8("Y(\vQ4ZV8X/\vS:4BF[$x+\vR", dw): "calcSynthesisSpeechHash"
+XX.d8("S+\bN<W#FN%S/5U=]\tb[8Y<N0", rw): "captureDeviceMotionActivity"
+XX.g8("TT", Nw): "wl"
+XX.h8("W/\f|&_.M^#", mw): "getFormInfo"
+XX.jX(Qv, jv, f3): "navPerm"
+XX.k8("^#^>5_=[kY\x3fX", NY): "fontMetricHash"
+XX.m8("O \vV7LK8t+\f[", gw): "buildPostData"
+XX.r8("\x40W \\/NP O|-D+", zw): "collectWebGlData"
+XX.s8("%", sl): "od"
+XX.t8("TN", Sv): "wv"
+XX.w8("\x3fI$\fR,[pH)U)r(Z", gv): "synthesisSpeechHash"
+: "weh"
+XX.M8("\v_\']gY8Q\v\nH", Cw) sensorDataArr
+XX.q8("[\x3fUWW>`/\nW ALV\x3f", bl) navigatorPermissions
+XX.W8("-N\n\b]\fJ]", Kl) getCookie
+
+XX.A8("X>\fJ:]H", Sk): "https://"
+XX.TV(Dk, Gk, f3): "http://"
+XX.VV(VR, pk, X3): "protocol"
+XX.n8("N=A]", Tk): "https:"
+XX.nT("^\b\x40Y8Y%", tR): "location"
+XX.F8("Z\bPL\"Q\'", H0) hostname
+XX.E8("HUWg<Q8W:", L6) "/get_params"
+
+XX.Q8("J", V6) "-1"
+
+XX.B8("(_+,R;\bFO]Q&", D6): "doaThrottleVal"
+XX.DV(OY, N3, f3): "clientX"
+XX.GV(OY, p6, f3): "clientY"
+XX.S8("-\nS3KJ#D>_^", G6): "dmaThrottleVal"
+XX.j8("S\x00F`", fv): "pageX"
+XX.pV(VR, T6, s0): "pageY"
+
+XX.LG("D%=V,\nW\tW", Mk): "toElement"
+XX.TG("VL8_$", E0): "button"
+XX.VG("KQ/X", n6): "which"
+XX.XG("FQ_)D", JO): "target"
+XX.xV(xl, QO, Q0): ",it0"
+
+XX.DG("H#Y$\f_;3KF", n3): "pointerType"
+XX.GG("+\b", jO): "ap"
+XX.pG("!_\x3f\v_", gv): "mouse"
+
+XX.Y1("T/S*]J]\"D+\fS&\t", rw): "deviceorientation"
+XX.mV(E0, qw, v6): "devicemotion"
+
+
+XX.CP("FV(", mY): "send"
+XX.DT(mv, fv, YR): "withCredentials"
+XX.GT(mO, B0, U6): "{\"sensor_data\":\""
+XX.bP("7", Xv): "\"}"
+XX.dP("W<U$", J0): "open"
+XX.gP("\x07Y;\bA\bELbh\x074r3b", kl): "Microsoft.XMLHTTP"
+XX.hP("7i", d3): "POST"
+XX.mP("T;SZK8Q>Y!\\\x00F", gw): "onreadystatechange"
+XX.pT(KY, n0, Z0): "onload"
+XX.rP("WGAD+\f_", Ck): "readyState"
+
+
+SENSOR DATA IS SENT WITH A7 function
+
+XX.qP("*s\x3f|n\r|=", Vv): "MAX_VALUE"
+XX.tV(jM, Nl, K0): "~"
+XX.p2("-D>Y!\"DML", Y6) = attachevent
+XX.d2("NK:Y9X \v[Z[$Q$_", Dv) = msvisibilitychange
+
+XX.WP("_=\"^N]\"D\bs-", Fl) getElementById
+XX.BP("C\"\\=", c6) shift
+
+XX.D2("WW9S\"U\x3f", Ew) touchmove
+
+XX.M2("\"KLO\"", cv) keydown
+
+XX.O2("W\"[/O9", tM) onkeyup
+
+XX.N2("M\"[", hU) unk
+
+XX.m2("=X\"F/J\\(U$", nl) webkitHidden
+
+
+XX.AP("fH", Jl): "//"
+console.log(XX.C2("&\tT\b\x40M\x3f", Sw)): "onfocus"
+XX.EP("e", jl): "/"
+XX.FP("V(F.M\\)H", Ql): "lastIndexOf"
+XX.G2("LM/X9\f[;", l6): "touchstart"
+XX.HT("\x40", fv): "src"
+XX.I2("#^\'O:V\bTV", vU): "onmousedown"
+XX.IT(KY, Fv, j0): "onmouseup"
+XX.JP("|K)DMSF", Zk): "_setPowState"
+XX.L2("vT Y", sv): "<init/>"
+XX.OT(mv, CU, Jw): "webkitvisibilitychange"
+XX.P2("&\t_\bVK)]%_", mM): "onmousemove"
+XX.PT(hk, kv, W0): "/_bm/_data"
+XX.QP("g\x3fU>1J;", x6): "_setIpr"
+XX.R2("[ Y)", tM): "click"
+XX.SP("^,G\x00", I6): "debug"
+XX.T2("WjV8U8[%", W0): "setInterval"
+XX.V2("([\bVA}O", f6): "aeiouy13579"
+XX.x2("]\x40P)^.", O6): "script"
+XX.Y2("LV<_#N,G", RU): "onpointerup"
+XX.YT(VR, wU, rM): "pointerdown"
+XX.ZP("_JW] U\'N;", El): "bm-telemetry"
+XX.ZT("O;W\tWk/B#\bN", tN): "currentScript"
+XX.b2("#^(O;", Bw): "onblur"
+XX.c2("\bM[ Y)", OU): "onclick"
+XX.cT(hY, Z3, rM): "touchcancel"
+XX.f2("U\']ML)B.M\'", UU): "onpointerdown"
+XX.fT(fY, TY, j0): "mousedown"
+XX.g2("\'\x40VFV", ZR): "mozHidden"
+XX.h2("\'\x40\x3fAAQ Y>Y!\\\x00F", qU): "mozvisibilitycha2!"
+XX.jP("-\x40:C\\", P6): "applyFunc"
+XX.l2("]\tH]5T%T", qv): "onkeydown"
+XX.lT(PN, MU, s0): "keyup"
+XX.q2("LO\b_$", XM): "powDone"
+XX.r2("_kQ(T/", bU): "msHidden"
+XX.t2("\fWSJ)C9", tU): "keypress"
+XX.v2("\b\\\fFA<B/\vI", kU): "o>!b\u0004\u000e\u001fA1"
+XX.vT(jw, Rl, U6): "visibilitychange"
+XX.x2("]@P)^.", O6): "script"
+XX.xT(xl, hO, Q0): ",s7:"
+XX.z2("X#^,\t", U6): "hidden"
+
+XX.sP("_=8FO]!U>\nC", Tv) get_telemetry
+
+XX.KP("EW>]\vO+\n[", pv) form_submit
+
+XX.HP("-N\f\vW\nFV8C\bt(\nW", xY) getElementsByName
+
+XX.nP("^PL\nE$N \b\\", PM) listFunctions
+
+XX.w2("LQ\"D/\nO9", rU) pointerup
+
+XX.U2("U<W\nLN)", DO) mousemove
+
+
+console.log(XX.bT("b", UN)) cX
+console.log(XX.mT("_/G\vW", Al)) default:
+XX.gT("S+\v_i", Hl) case
+XX.qT("z%WN", RN) BigInt
+XX.KT("X-J\x00Ja\x00|VP:", wN) "bd-2-06-06.js"
+XX.AT("H,", Yv) href
+XX.np("BZ/T/]!X\fOU\"_:K;FU\x405J\v:y\r\"t kq{5t7s6qke cFrDaowC\x00uY", Dv) abcdefghijklmnopaqrstuvxyzABCDEFGHIJKLMNOPAQRSTUVXYZ!@#%&-_=;:<>,~
+
+XX.Cx("axK", BM): "-123"
+XX.Ex("9I\x00", TN): ",s1:"
+XX.Hx("{I\f", jM): "-116"
+XX.Kx("xU", C6): "-127"
+XX.Mx("U\vxW", GO): "-110"
+XX.Nx("\t|", OM): "-102"
+XX.RV(Qk, Hl, Q0): "-109"
+XX.rx("\t|", RM): "-105"
+XX.Zx("sH", LN): "-90"
+XX.bx("xU\x00", d6): "-122"
+XX.dx("J\t~", KY): "-112"
+XX.gx("U\vxS", W6): "-114"
+XX.hx("xV\v", wN): "-119"
+XX.kV(Qk, UM, Q0): "-103"
+XX.nx("xT", XN): "-130"
+XX.qx("}~", h6): "-124"
+XX.Rx("\t|", pO): "-106"
+XX.sx("gI\b", b6): "-126"
+XX.tx("a{O", xO): "-117"
+XX.wV(Qk, Ml, F0): "-80"
+XX.wx("U\vyV", DO): "-101"
+XX.zx("{I\v", vM): "-111"
+XX.kx("xW\n", CM): "-108"
+XX.Ux("gI\ny", sl): "-100"
+XX.mx("V\r", kM): "-115"
+XX.Wx("U\ry", q6): "-70"
+XX.Fx("J\nu", nY): "-129"
+
+
+XX.Jx("WY/[", pN) stack
+
+XX.Qx("", pk) "'"
+
+XX.Sx("\x3fp", DR) ,s3:
+
+XX.jx("f\v\bs", rY) ,s2:
+XX.Bx("{J\n", DN) -120
+
+XX.X1("Ek.U:\x40C#\th2IIQH\vy\r}Vk-G JlV>h\x009isHO1", GN)  afSbep8yjnZUjq3aL010jO15Sawj2VZfdYK8uY90uxq
+
+XX.L1("\x00+L\fR_Vn>\x40~*", Gl) 0a46G5m17Vrp4o4c
+XX.MV(tl, bv, s0) bm_sz
+
+XX.V1("\f\x40\bQ)H>\n[*[\tD#R,\rI*FLVl[/Ig", ZM) Error extracting obfuscation keys.
+
+XX.T1("[\fZ<Tt", gl) </bpd>
+XX.p1("e:fB[)", rl) _sdTrace
+
+XX.D1("B[/U&H([\bM", ml): "acceleration"
+XX.G1("3", AU): "y"
+XX.I1("W+W(", LN): "gamma"
+XX.P1("\x40\bWY8Y%h(W", JU): "rotationRate"
+XX.c1("S\vSP-", QU): "alpha"
+XX.gV(rk, EU, wM): "accelerationIncludingGravity"
+XX.rV(tl, jU, Q0): "beta"
+XX.x1("\x40", FU): "z"
+XX.zV(dl, TR, K0): "x"
+
+XX.M1("\x00WuW%S/\v", qR): "getVoices"
+XX.N1("8", KR): "_"
+XX.t1("U W2qq", sR): "voiceURI"
+XX.w1("K<U/R\\K]\x3fY9", Uw): "speechSynthesis"
+XX.z1("OY\"W", WR): "lang"

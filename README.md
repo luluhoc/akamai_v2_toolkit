@@ -7,6 +7,15 @@ Feel free to contact me `@lulu_fr_` on Twitter, open an issue or start a discuss
 >The current stage is deobfuscation of 2.0 version
 >> UPDATE 13/02/2022 - I'm almost done deobfuscating ;-)
 
+Decryptor added to toolkit
+
+How to use:
+
+
+1. Add Sensor to sensor.txt file.
+2. run `yarn run hoc decrypt sensor.txt`
+
+
 Akamai just wasting computer resources lol.
 
 Example Sensor Data
@@ -44,7 +53,4 @@ anomaly detection, high request rate, and more. Bot Manager’s dynamic obfuscat
 and telemetry protects against reverse engineering, keeping Bot Manager’s effectiveness
 high over time.
 ```
-
-Current Dict
-
-
+Thanks to https://github.com/NotAnAPI for decryptor

@@ -130,7 +130,7 @@ function MakeItEvenBetter(sensor: string) {
 
 function main(sensor: string) {
   if (!sensor) {
-   
+   throw new Error('No sensor');
   }
   const extract = sensor.substring("{\"sensor_data\":\"".length, sensor.length - 2);
   const match = extract.match(/^([\d]+\;[\d]+\;[\d]+\;[\d]+\,[\d]+\,[\d]+\,[\d]+\,[\d]+;)/s);

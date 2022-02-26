@@ -20,7 +20,7 @@ Akamai just wasting computer resources lol.
 Example Sensor Data
 ---
 ```
-sensor_data: {"sensor_data":"2;3752257;3555636;10,7,0,0,1;T+de{A`Afgk}AE~*}O`/.Dv@Jv/%8*|vB#*K+I6g2,)#Jz)V-axH{DnRGqfT5 r(O]W:r
+{"sensor_data":"2;3752257;3555636;10,7,0,0,1;T+de{A`Afgk}AE~*}O`/.Dv@Jv/%8*|vB#*K+I6g2,)#Jz)V-axH{DnRGqfT5 r(O]W:r
 s>I>G7_GXBKZdL7%.OZai$1|dT|1%r8B7ZzBH8XhGp`7q7p(p,|GV!l(9!!tN$9MHL|E@<|!h=xOFz_!'@;SAD;]`'a3@*9U=?#Zkc-
 M{kNscQ<oKVmR``~]%Fq6l?R7KuiezfnWPxD0Bz%D[EzyO4w<130($4r,X~17 %*b1YZZg}lvw-W`$fo^bo|$482pB8u5E)RF.y
 _SDp/`{6Sv/=ta,!nS|=Obj?Pm=1ws2givAg9/FxMvk:-@Mi>NXI1g_O5j6VHi?pcFomTC9Po3Ceac O`pt({fAmiS=x)|0+F18m

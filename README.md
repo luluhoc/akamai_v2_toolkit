@@ -4,6 +4,8 @@ If you want to talk join https://discord.gg/amBFR6G2PM
 
 Feel free to contact me `@lulu_fr_` on Twitter, open an issue or start a discussion. 
 
+Just a small update I was busy lately but I will be soon continue to work on this :)
+
 ======================
 
 Decryptor added to toolkit

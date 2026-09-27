@@ -17,7 +17,7 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^6.0.0",
     "commander": "^10.0.0"
   }
 }
